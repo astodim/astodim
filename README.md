@@ -10,7 +10,8 @@
   - <b>Unit of Work, Inversion of Control, N Layered Architecture, Repository Design Pattern</b>
   - <b> MVC Structure </b>
 
-  <h3>Oh and I have a bit of accounting experience :3 📈💰📊</h3>
+  <h3>Oh and I have a bit of accounting experience besides programming :3 📈💰📊</h3>
+  <p>But still haven't yet made a project that used both my accounting knowledge and programming knowledge. 😔</p>
 
   <h2>I'm always open to learning more and more! 🎉</h2>
 
