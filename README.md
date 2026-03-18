@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
+<h2>🌸Hello! My name is Didem! 🌸</h2>
+  I love coding! 🖥 Although I don't have an university experience. 😥
+  <br>
+  🎀 I think I can learn fast an adapt to anything! 🎀
 
-<!--
-**astodim/astodim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Here are the technologies I have used in the past and am familiar with:
+  - <b>HTML/CSS/JS</b>
+  - <b>C# / ASP.NET Core / EntityFramework Core</b>
+  - <b>Unit of Work, Inversion of Control, N Layered Architecture, Repository Design Pattern</b>
+  - <b> MVC Structure </b>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h2>I'm always open to learning more and more! 🎉</h2>
+</div>
