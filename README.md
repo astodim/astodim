@@ -10,6 +10,8 @@
   - <b>Unit of Work, Inversion of Control, N Layered Architecture, Repository Design Pattern</b>
   - <b> MVC Structure </b>
 
+  <h3>Oh and I have a bit of accounting experience :3 📈💰📊</h3>
+
   <h2>I'm always open to learning more and more! 🎉</h2>
 
   ![My Stats](https://chlorophyll.chwrryon.top/stats/astodim?decor=ribbon&frame=catface&layout=piwp)
