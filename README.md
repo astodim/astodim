@@ -11,4 +11,9 @@
   - <b> MVC Structure </b>
 
   <h2>I'm always open to learning more and more! 🎉</h2>
+
+  ![My Stats](https://chlorophyll.chwrryon.top/stats/astodim)
+
+  Also, if you want to check out this cool stats section my friend made;
+  https://github.com/chwrryroll/chlorophyll
 </div>
