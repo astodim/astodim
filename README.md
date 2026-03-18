@@ -12,7 +12,7 @@
 
   <h2>I'm always open to learning more and more! 🎉</h2>
 
-  ![My Stats](https://chlorophyll.chwrryon.top/stats/astodim)
+  ![My Stats](https://chlorophyll.chwrryon.top/stats/astodim?decor=ribbon&frame=catface&layout=piwp)
 
   Also, if you want to check out this cool stats section my friend made;
   https://github.com/chwrryroll/chlorophyll
